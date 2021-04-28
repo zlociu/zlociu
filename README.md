@@ -15,8 +15,8 @@ I'm Marcin Złotek, IT student at the Poznań University of Technology.
 ### 🛠️ Technologies & Tools:
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=00acee)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=Visual-Studio-Code&logoColor=white&color=007acc)
-![](https://img.shields.io/badge/Language-CSharp-informational?style=flat-square&logo=.NET&logoColor=white&color=67217a)
-![](https://img.shields.io/badge/Language-FSharp-informational?style=flat-square&logo=.NET&logoColor=white&color=378bba)
+![](https://img.shields.io/badge/Language-C%23-informational?style=flat-square&logo=.NET&logoColor=white&color=67217a)
+![](https://img.shields.io/badge/Language-F%23-informational?style=flat-square&logo=.NET&logoColor=white&color=378bba)
 ![](https://img.shields.io/badge/Framework-ASP.NET-informational?style=flat-square&logo=.NET&logoColor=white&color=6d16e7)
 ![](https://img.shields.io/badge/Framework-SignalR-informational?style=flat-square&logo=.NET&logoColor=white&color=59b4d9)
 ![](https://img.shields.io/badge/Language-CUDA-informational?style=flat-square&logo=Nvidia&logoColor=white&color=76b900)
