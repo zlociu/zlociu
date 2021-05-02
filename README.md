@@ -5,12 +5,12 @@ I'm Marcin Złotek, IT student at the Poznań University of Technology.
 **zlociu/zlociu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### 📊 Github stats
-![Zlociu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlociu&show_icons=true&bg_color=092e49&default&line_height=27&text_color=fff&title_color=00ccff&icon_color=00ccff&include_all_commits=1&custom_title=Zlociu's%20GitHub%20Stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlociu&title_color=092e49&layout=default&langs_count=3&card_width=305)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&bg_color=00ccff&title_color=092e49&text_color=092e49&repo=2019_LEDTetris)](https://github.com/PUT-PTM/2019_LEDTetris)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&title_color=092e49&repo=LZ77.NET)](https://github.com/zlociu/LZ77.NET)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&title_color=092e49&repo=HammingECC.NET)](https://github.com/zlociu/HammingECC.NET)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&bg_color=00ccff&title_color=092e49&text_color=092e49&repo=ASPNET-TIWPR-LAB)](https://github.com/zlociu/ASPNET-TIWPR-LAB)
+![Zlociu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlociu&show_icons=true&bg_color=092e49&default&line_height=27&text_color=fff&title_color=00ccff&icon_color=00ccff&hide_border=true&include_all_commits=1&custom_title=Zlociu's%20GitHub%20Stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlociu&title_color=092e49&layout=default&border_color=00ccff&langs_count=3&card_width=305)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&bg_color=00ccff&title_color=092e49&text_color=092e49&hide_border=true&repo=2019_LEDTetris)](https://github.com/PUT-PTM/2019_LEDTetris)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&title_color=092e49&border_color=00ccff&repo=LZ77.NET)](https://github.com/zlociu/LZ77.NET)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&title_color=092e49&border_color=00ccff&repo=HammingECC.NET)](https://github.com/zlociu/HammingECC.NET)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&bg_color=00ccff&title_color=092e49&text_color=092e49&hide_border=true&repo=ASPNET-TIWPR-LAB)](https://github.com/zlociu/ASPNET-TIWPR-LAB)
 
 ### 🛠️ Technologies & Tools:
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=00ccff)  
