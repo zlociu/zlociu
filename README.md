@@ -13,16 +13,16 @@ I'm Marcin Złotek, IT student at the Poznań University of Technology.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&title_color=092e49&border_color=00ccff&repo=ASPNET-TIWPR-LAB)](https://github.com/zlociu/ASPNET-TIWPR-LAB)
 
 ### 🛠️ Technologies & Tools:
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=00ccff)  
-![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=Visual-Studio-Code&logoColor=white&color=00ccff)
-![](https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=flat-square&logo=Visual-Studio&logoColor=white&color=00ccff)  
-![](https://img.shields.io/badge/Language-C%23-informational?style=flat-square&logo=.NET&logoColor=white&color=00ccff)
-![](https://img.shields.io/badge/Language-F%23-informational?style=flat-square&logo=.NET&logoColor=white&color=00ccff)
-![](https://img.shields.io/badge/Language-CUDA-informational?style=flat-square&logo=Nvidia&logoColor=white&color=00ccff)  
-![](https://img.shields.io/badge/Framework-ASP.NET-informational?style=flat-square&logo=.NET&logoColor=white&color=00ccff)
-![](https://img.shields.io/badge/Framework-SignalR-informational?style=flat-square&logo=.NET&logoColor=white&color=00ccff)  
-![](https://img.shields.io/badge/Tool-LaTeX-informational?style=flat-square&logo=Latex&logoColor=white&color=00ccff)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat-square&logo=Microsoft-Azure&logoColor=white&color=00ccff)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white&labelColor=092e49&color=00ccff)  
+![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=Visual-Studio-Code&logoColor=white&labelColor=092e49&color=00ccff)
+![](https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=flat-square&logo=Visual-Studio&logoColor=white&labelColor=092e49&color=00ccff)  
+![](https://img.shields.io/badge/Language-C%23-informational?style=flat-square&logo=.NET&logoColor=white&labelColor=092e49&color=00ccff)
+![](https://img.shields.io/badge/Language-F%23-informational?style=flat-square&logo=.NET&logoColor=white&labelColor=092e49&color=00ccff)
+![](https://img.shields.io/badge/Language-CUDA-informational?style=flat-square&logo=Nvidia&logoColor=white&labelColor=092e49&color=00ccff)  
+![](https://img.shields.io/badge/Framework-ASP.NET-informational?style=flat-square&logo=.NET&logoColor=white&labelColor=092e49&color=00ccff)
+![](https://img.shields.io/badge/Framework-SignalR-informational?style=flat-square&logo=.NET&logoColor=white&labelColor=092e49&color=00ccff)  
+![](https://img.shields.io/badge/Tool-LaTeX-informational?style=flat-square&logo=Latex&logoColor=white&labelColor=092e49&color=00ccff)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat-square&logo=Microsoft-Azure&logoColor=white&labelColor=092e49&color=00ccff)
 
 ### 💬 Contact
 E-mail: marcin.zlotek@student.put.poznan.pl
