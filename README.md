@@ -7,7 +7,7 @@ I'm Marcin Złotek, IT student at the Poznań University of Technology.
 ### 📊 Github stats
 ![Zlociu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlociu&show_icons=true&bg_color=092e49&default&line_height=27&text_color=fff&title_color=00ccff&icon_color=00ccff&hide_border=true&include_all_commits=1&custom_title=Zlociu's%20GitHub%20Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlociu&title_color=092e49&layout=default&border_color=00ccff&langs_count=3&card_width=305)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&title_color=092e49&border_color=00ccff&repo=2019_LEDTetris)](https://github.com/PUT-PTM/2019_LEDTetris)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&title_color=092e49&border_color=00ccff&repo=2019_LEDTetris)](https://github.com/zlociu/2019_LEDtetris)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&title_color=092e49&border_color=00ccff&repo=LZ77.NET)](https://github.com/zlociu/LZ77.NET)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&title_color=092e49&border_color=00ccff&repo=HammingECC.NET)](https://github.com/zlociu/HammingECC.NET)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&title_color=092e49&border_color=00ccff&repo=ASPNET-TIWPR-LAB)](https://github.com/zlociu/ASPNET-TIWPR-LAB)
