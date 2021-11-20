@@ -12,6 +12,7 @@ My passion is music (specially film music).
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&title_color=092e49&border_color=00ccff&repo=LZ77.NET)](https://github.com/zlociu/LZ77.NET)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&title_color=092e49&border_color=00ccff&repo=HammingECC.NET)](https://github.com/zlociu/HammingECC.NET)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&title_color=092e49&border_color=00ccff&repo=ASPNET-TIWPR-LAB)](https://github.com/zlociu/ASPNET-TIWPR-LAB)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&title_color=092e49&border_color=00ccff&repo=Xbox-Controller-Mouse)](https://github.com/zlociu/Xbox-Controller-Mouse.git)
 
 ### 🛠️ Technologies & Tools:
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white&labelColor=092e49&color=00ccff)  
