@@ -1,7 +1,7 @@
-## Hi there 👋  
+# Hi there 👋 
 
-I'm Marcin Złotek, IT student at the Poznań University of Technology. I specialize in distributed systems.  
-My passion is music (specially film music).
+I'm Marcin, IT student at the Poznań University of Technology. I specialize in distributed and parallel systems.  
+My passion is music (specially film music). 
 <!--
 **zlociu/zlociu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
