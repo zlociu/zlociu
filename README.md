@@ -6,7 +6,7 @@ My passion is music (specially film music).
 **zlociu/zlociu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### 📊 Github stats
-![Zlociu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlociu&show_icons=true&bg_color=092e49&default&line_height=27&text_color=fff&title_color=00ccff&icon_color=00ccff&hide_border=true&include_all_commits=1&custom_title=Zlociu's%20GitHub%20Stats)
+![Zlociu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlociu&show_icons=true&bg_color=0B3A5B&default&line_height=27&text_color=fff&title_color=00ccff&icon_color=00ccff&hide_border=true&include_all_commits=1&custom_title=Zlociu's%20GitHub%20Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlociu&title_color=0B3A5B&layout=default&border_color=00ccff&langs_count=3&card_width=305)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&title_color=0B3A5B&border_color=00ccff&repo=2019_LEDTetris)](https://github.com/zlociu/2019_LEDtetris)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&title_color=0B3A5B&border_color=00ccff&repo=LZ77.NET)](https://github.com/zlociu/LZ77.NET)  
