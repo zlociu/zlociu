@@ -1,7 +1,7 @@
-# Hi there 👋 
+## Hi! I'm Marcin 👋 
 
-I'm Marcin, IT student at the Poznań University of Technology. I specialize in distributed and parallel systems.  
-My passion is music (specially film music). 
+I'm IT student at the Poznań University of Technology. I specialize in distributed and parallel systems.  
+My passion is music (specially film music). In my free time, I like to play the piano 🎹.
 <!--
 **zlociu/zlociu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -30,6 +30,7 @@ My passion is music (specially film music).
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat-square&logo=Microsoft-Azure&logoColor=white&labelColor=0B3A5B&color=00ccff)
 
 ### 💬 Contact
-E-mail: marcin.zlotek@student.put.poznan.pl
+__E-mail:__ marcin.zlotek@student.put.poznan.pl  
+__LinkedIn:__  www.linkedin.com/in/marcin-złotek  
 
 
