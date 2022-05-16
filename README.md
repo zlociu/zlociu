@@ -1,6 +1,6 @@
 ## Hi! I'm Marcin 👋 
 
-I'm IT student at the Poznań University of Technology. I specialize in distributed and parallel systems.  
+I'm IT student at the Poznań University of Technology. I specialize in distributed and parallel systems 🖥️.  
 My passion is music (specially film music)🎵. In my free time, I like to play the piano 🎹.
 <!--
 **zlociu/zlociu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
