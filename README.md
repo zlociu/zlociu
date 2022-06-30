@@ -12,9 +12,11 @@ My passion is music (specially film music)🎵. In my free time, I like to play 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&title_color=0B3A5B&border_color=00ccff&repo=LZ77.NET)](https://github.com/zlociu/LZ77.NET)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&title_color=0B3A5B&border_color=00ccff&repo=HammingECC.NET)](https://github.com/zlociu/HammingECC.NET)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&title_color=0B3A5B&border_color=00ccff&repo=Xbox-Controller-Mouse)](https://github.com/zlociu/Xbox-Controller-Mouse.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&title_color=0B3A5B&border_color=00ccff&repo=CUDA-BlackHole)](https://github.com/zlociu/CUDA-BlackHole.git)
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlociu&title_color=0B3A5B&border_color=00ccff&repo=ASPNET-TIWPR-LAB)](https://github.com/zlociu/ASPNET-TIWPR-LAB)
 -->
+
 
 
 ### 🛠️ Technologies & Tools:
@@ -30,7 +32,7 @@ My passion is music (specially film music)🎵. In my free time, I like to play 
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat-square&logo=Microsoft-Azure&logoColor=white&labelColor=0B3A5B&color=00ccff)
 
 ### 💬 Contact
-__E-mail:__ marcin.zlotek@student.put.poznan.pl  
+__E-mail:__ zlociu@onet.eu  
 __LinkedIn:__  www.linkedin.com/in/marcin-złotek  
 
 
