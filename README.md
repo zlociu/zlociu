@@ -1,6 +1,7 @@
 ## Hi! I'm Marcin 👋 
 
-I'm a graduate of IT studies at the Poznań University of Technology. I specialize in distributed and parallel systems 🖥️.  
+I'm a .NET developer. I specialize in distributed and parallel systems 🖥️.  
+You can find here some of my student projects (solo & team) but also my hobby projects.  
 My passion is music (specially film music)🎵. In my free time, I like to play the piano 🎹.
 <!--
 **zlociu/zlociu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
